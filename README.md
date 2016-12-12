@@ -1,0 +1,2 @@
+# DataStrucuture
+just for lreaning
